@@ -11,3 +11,5 @@ It is also simple. Only authorized user can access and modify data making the sy
 Our project proposes a computerized collection system which calculates electricity bill automatically and it simplifies the task and reduces the paper work.
 This system automates each and every activity of the manual system and increases its quality. 
 The system calculates current bill, previous pending bill with penalty, etc.
+
+link - https://frtebill.azurewebsites.net/
