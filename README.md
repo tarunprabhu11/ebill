@@ -12,4 +12,3 @@ Our project proposes a computerized collection system which calculates electrici
 This system automates each and every activity of the manual system and increases its quality. 
 The system calculates current bill, previous pending bill with penalty, etc.
 
-link - https://frtebill.azurewebsites.net/
